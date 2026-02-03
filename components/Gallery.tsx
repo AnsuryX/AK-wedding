@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 const IMAGES = [
   "https://images.unsplash.com/photo-1509043666159-fc0cdc0049e5?auto=format&fit=crop&q=80&w=800",
   "https://images.unsplash.com/photo-1465961901033-05fcc9675d51?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1547630389-40ef7b0ca097?auto=format&fit=crop&q=80&w=800",
+  "https://pixabay.com/photos/wedding-aisle-flower-arrangement-1846114?auto=format&fit=crop&q=80&w=800",
   "https://images.unsplash.com/photo-1561638273-475e21f62b01?auto=format&fit=crop&q=80&w=800"
 ];
 
