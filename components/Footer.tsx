@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
         </div>
         
         <h2 className="font-serif text-3xl mb-4 text-[#8d6e63]">Abdirahman & Khatra</h2>
-        <p className="text-gray-400 text-sm tracking-widest uppercase mb-12">February 10, 2026 • Nairobi, Kenya</p>
+        <p className="text-gray-400 text-sm tracking-widest uppercase mb-12">February 4, 2026 • Nairobi, Kenya</p>
         
         <div className="text-gray-300 text-xs tracking-tighter">
           &copy; {new Date().getFullYear()} Made with love for the happy couple

@@ -14,7 +14,7 @@ const RSVP: React.FC = () => {
     
     const shareData: ShareData = {
       title: 'Abdirahman & Khatra Wedding Invitation',
-      text: `Assalamu Alaikum, you are cordially invited to the wedding of Abdirahman and Khatra on February 10, 2026.`,
+      text: `Assalamu Alaikum, you are cordially invited to the wedding of Abdirahman and Khatra on February 4, 2026.`,
     };
 
     if (isValidUrl) {
@@ -38,7 +38,7 @@ const RSVP: React.FC = () => {
   const copyFallback = () => {
     const currentUrl = window.location.href;
     const isValidUrl = currentUrl.startsWith('http');
-    const textToCopy = isValidUrl ? currentUrl : 'Abdirahman & Khatra Wedding Invitation - Feb 10, 2026';
+    const textToCopy = isValidUrl ? currentUrl : 'Abdirahman & Khatra Wedding Invitation - Feb 4, 2026';
     
     navigator.clipboard.writeText(textToCopy);
     alert('Invitation info copied to clipboard!');
