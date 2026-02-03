@@ -1,0 +1,22 @@
+
+{
+  "name": "Abdirahman & Khatra Wedding",
+  "short_name": "A&K Wedding",
+  "description": "Wedding Invitation for Abdirahman & Khatra",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#8d6e63",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1525253013412-55c1a69a5738?auto=format&fit=crop&q=80&w=192&h=192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1525253013412-55c1a69a5738?auto=format&fit=crop&q=80&w=512&h=512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
