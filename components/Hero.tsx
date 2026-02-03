@@ -12,7 +12,7 @@ const Hero: React.FC<HeroProps> = ({ details }) => {
       {/* Background with Depth */}
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center transition-transform duration-[10s] hover:scale-110"
-        style={{ backgroundImage: `url('https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80&w=2070')` }}
+        style={{ backgroundImage: `url('https://images.unsplash.com/photo-1509043666159-fc0cdc0049e5?auto=format&fit=crop&q=80&w=2070')` }}
       >
         <div className="absolute inset-0 bg-black/60"></div>
       </div>

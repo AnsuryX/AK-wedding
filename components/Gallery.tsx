@@ -3,10 +3,10 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const IMAGES = [
-  "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&q=80&w=800"
+  "https://images.unsplash.com/photo-1509043666159-fc0cdc0049e5?auto=format&fit=crop&q=80&w=800",
+  "https://images.unsplash.com/photo-1465961901033-05fcc9675d51?auto=format&fit=crop&q=80&w=800",
+  "https://images.unsplash.com/photo-1547630389-40ef7b0ca097?auto=format&fit=crop&q=80&w=800",
+  "https://images.unsplash.com/photo-1561638273-475e21f62b01?auto=format&fit=crop&q=80&w=800"
 ];
 
 const Gallery: React.FC = () => {
