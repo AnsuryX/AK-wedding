@@ -5,7 +5,7 @@ import { Heart, Calendar, MapPin, Clock, Music } from 'lucide-react';
 export const WEDDING_DETAILS = {
   groomName: "Abdirahman Abdishakur",
   brideName: "Khatra Muhumad Dahir",
-  date: new Date("2026-02-10T14:00:00"),
+  date: new Date("2026-02-04T14:00:00"),
   location: "City Park Estate",
   locationAddress: "Parklands, Nairobi",
   themeColor: "#8d6e63",

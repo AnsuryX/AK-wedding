@@ -98,7 +98,7 @@ const Hero: React.FC<HeroProps> = ({ details }) => {
         ></motion.div>
 
         <p className="font-serif text-xl md:text-4xl mb-10 md:mb-12 tracking-widest text-white/90 font-light">
-          10 . 02 . 2026
+          04 . 02 . 2026
         </p>
 
         <motion.div
